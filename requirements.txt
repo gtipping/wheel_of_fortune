@@ -1,0 +1,14 @@
+# Library dependencies for python code. Need to install with 
+# 'pip install -r requirement.txt' before you can run.
+
+# To use for generating random numbers in given interval
+random
+
+# Used to set execution limit
+sys
+
+# Used for reading in json files
+json
+
+# Used to add pauses between plays in the game
+time
